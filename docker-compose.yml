@@ -20,7 +20,7 @@ services:
       #VANILLATWEAKS_SHARECODE: izhLiC
 
       # uncomment this to import a saved game. (put your savegame directory in the saves-to-import directory)
-      # WORLD: "/worlds/My-World"
+      WORLD: "/worlds/world"
 
     volumes:
       - ./minecraft-data:/data

@@ -12,7 +12,7 @@ services:
       SERVER_NAME: "The place to chill. ^-^"
       MOTD: "The only love you need. ❤️"
 
-      DIFFICULTY: "normal"
+      DIFFICULTY: "hard"
 
       # https://github.com/itzg/docker-minecraft-server#memory-limit
       MEMORY: 3G

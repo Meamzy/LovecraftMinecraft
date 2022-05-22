@@ -1,1 +1,0 @@
-scp -i ./mine -r path* ubuntu@:/datapacks

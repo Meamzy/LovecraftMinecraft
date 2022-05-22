@@ -15,7 +15,7 @@ services:
       DIFFICULTY: "normal"
 
       # https://github.com/itzg/docker-minecraft-server#memory-limit
-      MEMORY: 2G
+      MEMORY: 3G
 
       # uncomment this to import a saved game. (put your savegame directory in the saves-to-import directory)
       # WORLD: "/worlds/My-World"

@@ -1,0 +1,1 @@
+scp -i ./mine -r C:\Users\user\Desktop\memecraft\datapacks\* ubuntu@35.158.105.204:/datapacks

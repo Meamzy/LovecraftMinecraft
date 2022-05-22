@@ -25,7 +25,7 @@ services:
     volumes:
       - ./minecraft-data:/data
       - ./saves-to-import:/worlds:ro	
-      - ./datapacks:/data/world/datapacks
+      #- ./datapacks:/data/world/datapacks
 
 #mkdir minecraft-data
 #mkdir saves-to-import

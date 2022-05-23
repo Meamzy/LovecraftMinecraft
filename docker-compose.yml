@@ -15,7 +15,7 @@ services:
       DIFFICULTY: "hard"
 
       # https://github.com/itzg/docker-minecraft-server#memory-limit
-      MEMORY: 3G
+      MEMORY: 6G
         
       #VANILLATWEAKS_SHARECODE: izhLiC
 

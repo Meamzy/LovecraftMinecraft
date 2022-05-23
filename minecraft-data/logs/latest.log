@@ -1,111 +1,115 @@
-[20:40:01] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:40:01] [ServerMain/WARN]: Missing data pack file/graves v2.8.5.zip
-[20:40:03] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:40:03] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:40:03] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:40:03] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:40:03] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:40:04] [Worker-Main-2/INFO]: Loaded 7 recipes
-[20:40:04] [Worker-Main-2/INFO]: Loaded 1141 advancements
-[20:40:07] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[20:40:07] [Server thread/INFO]: Loading properties
-[20:40:07] [Server thread/INFO]: Default game type: SURVIVAL
-[20:40:07] [Server thread/INFO]: Generating keypair
-[20:40:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:40:07] [Server thread/INFO]: Using epoll channel type
-[20:40:07] [Server thread/INFO]: Preparing level "world"
-[20:40:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:40:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:40:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:40:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:40:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:40:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:40:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:40:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:40:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:40:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:40:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:40:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:40:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:40:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:40:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:40:20] [Worker-Main-2/INFO]: Preparing spawn area: 5%
-[20:40:21] [Worker-Main-2/INFO]: Preparing spawn area: 19%
-[20:40:21] [Worker-Main-2/INFO]: Preparing spawn area: 31%
-[20:40:22] [Worker-Main-2/INFO]: Preparing spawn area: 54%
-[20:40:23] [Worker-Main-2/INFO]: Preparing spawn area: 57%
-[20:40:23] [Server thread/INFO]: Time elapsed: 9610 ms
-[20:40:23] [Server thread/INFO]: Done (15.862s)! For help, type "help"
-[20:40:23] [Server thread/INFO]: Starting remote control listener
-[20:40:23] [Server thread/INFO]: Thread RCON Listener started
-[20:40:23] [Server thread/INFO]: RCON running on 0.0.0.0:25575
-[20:41:10] [User Authenticator #1/INFO]: UUID of player Meazm is 6d74bc03-87d9-4648-8499-3d8a349c1ff8
-[20:41:10] [Server thread/INFO]: Meazm[/46.204.40.170:42215] logged in with entity id 22 at (141.0931523812278, 74.0, 1063.665641359409)
-[20:41:10] [Server thread/INFO]: Meazm joined the game
-[20:41:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4623ms or 92 ticks behind
-[20:41:26] [User Authenticator #2/INFO]: UUID of player Bestiya12 is 6bba0ee1-302d-4224-99b8-557331de33e6
-[20:41:26] [Server thread/INFO]: Bestiya12[/109.252.105.206:3857] logged in with entity id 243 at (-63.355844994480975, 64.0, 2151.9918107549115)
-[20:41:26] [Server thread/INFO]: Bestiya12 joined the game
-[20:41:26] [Server thread/INFO]: Bestiya12 has made the advancement [Suit Up]
-[20:41:26] [Server thread/INFO]: Bestiya12 has made the advancement [Ice Bucket Challenge]
-[20:41:26] [Server thread/INFO]: Bestiya12 has made the advancement [Stone Age]
-[20:41:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@1aa38166[id=<null>,name=RengokeGK,properties={},legacy=false] (/37.79.37.213:1748) lost connection: Disconnected
-[20:41:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8053ms or 161 ticks behind
-[20:41:38] [User Authenticator #3/INFO]: UUID of player RengokeGK is a3fdb09b-b208-40ce-82ab-551ccdddc14f
-[20:41:38] [Server thread/INFO]: RengokeGK[/37.79.37.213:1761] logged in with entity id 253 at (153.9606306366568, 71.0, 1074.3285846816948)
-[20:41:38] [Server thread/INFO]: RengokeGK joined the game
-[20:41:39] [Server thread/INFO]: RengokeGK has made the advancement [Suit Up]
-[20:41:39] [Server thread/INFO]: RengokeGK has made the advancement [Stone Age]
-[20:41:39] [Server thread/INFO]: RengokeGK has made the advancement [Isn't It Iron Pick]
-[20:43:17] [Server thread/INFO]: RengokeGK has made the advancement [Acquire Hardware]
-[20:44:03] [Server thread/INFO]: RengokeGK has made the advancement [Enchanter]
-[20:44:14] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-91, y=54, z=2170} gj{x=-91, y=55, z=2170}
-[20:44:50] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-91, y=55, z=2180} gj{x=-90, y=53, z=2180}
-[20:44:58] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-95, y=58, z=2170} gj{x=-95, y=59, z=2170}
-[20:45:14] [Server thread/WARN]: UUID of added entity already exists: bis['Pig'/1895, l='ServerLevel[world]', x=42.27, y=63.00, z=1944.75]
-[20:45:22] [Server thread/INFO]: Bestiya12 has made the advancement [The Parrots and the Bats]
-[20:46:21] [Server thread/INFO]: Bestiya12 has made the advancement [Sweet Dreams]
-[20:46:37] [Server thread/INFO]: Meazm has made the advancement [Sweet Dreams]
-[20:47:25] [Server thread/INFO]: RengokeGK has made the advancement [Sweet Dreams]
-[20:47:46] [Server thread/INFO]: RengokeGK has made the advancement [Monster Hunter]
-[20:48:47] [Server thread/INFO]: Meazm fell from a high place
-[20:48:54] [Server thread/INFO]: Meazm lost connection: Disconnected
-[20:48:54] [Server thread/INFO]: Meazm left the game
-[20:52:50] [Server thread/INFO]: <RengokeGK> 167 1042
-[20:55:43] [Server thread/INFO]: RengokeGK has made the advancement [The Parrots and the Bats]
-[20:56:29] [Server thread/INFO]: RengokeGK has made the advancement [A Seedy Place]
-[20:57:45] [Server thread/INFO]: Bestiya12 has made the advancement [Monster Hunter]
-[21:00:21] [User Authenticator #4/INFO]: UUID of player Meazm is 6d74bc03-87d9-4648-8499-3d8a349c1ff8
-[21:00:21] [Server thread/INFO]: Meazm[/46.204.40.170:42155] logged in with entity id 8418 at (132.17405013693522, 73.0, 1070.1490773522455)
-[21:00:21] [Server thread/INFO]: Meazm joined the game
-[21:00:45] [User Authenticator #5/INFO]: UUID of player Meazm is 6d74bc03-87d9-4648-8499-3d8a349c1ff8
-[21:00:51] [Server thread/INFO]: Meazm lost connection: Disconnected
-[21:00:51] [Server thread/INFO]: Meazm left the game
-[21:00:51] [Server thread/INFO]: Meazm[/46.204.40.170:42167] logged in with entity id 8503 at (132.17405013693522, 73.0, 1070.1490773522455)
-[21:00:51] [Server thread/INFO]: Meazm joined the game
-[21:04:34] [Server thread/INFO]: <Meazm> f
-[21:04:39] [Server thread/INFO]: <Bestiya12> f
-[21:08:26] [Server thread/INFO]: Bestiya12 has made the advancement [Not Today, Thank You]
-[21:17:02] [Server thread/INFO]: <Bestiya12> 246 1720
-[21:24:40] [Server thread/INFO]: <Meazm> 788 80 2340
-[21:26:23] [Server thread/INFO]: <Meazm> 167 1042
-[21:27:06] [Server thread/INFO]: Bestiya12 has made the advancement [Acquire Hardware]
-[21:28:34] [Server thread/INFO]: <Meazm> dam ili ne dam
-[21:34:21] [Server thread/INFO]: RengokeGK lost connection: Disconnected
-[21:34:21] [Server thread/INFO]: RengokeGK left the game
-[21:35:49] [Server thread/INFO]: Meazm lost connection: Disconnected
-[21:35:49] [Server thread/INFO]: Meazm left the game
-[21:35:54] [Server thread/INFO]: Bestiya12 lost connection: Disconnected
-[21:35:54] [Server thread/INFO]: Bestiya12 left the game
-[21:35:54] [Server thread/INFO]: Stopping the server
-[21:35:54] [Server thread/INFO]: Stopping server
-[21:35:54] [Server thread/INFO]: Saving players
-[21:35:54] [Server thread/INFO]: Saving worlds
-[21:35:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:35:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:35:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:35:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:35:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:35:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:35:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[21:35:57] [Server thread/INFO]: Thread RCON Listener stopped
+[15:27:02] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:27:05] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:27:05] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:27:05] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:27:05] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:27:05] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:27:06] [Worker-Main-2/INFO]: Loaded 7 recipes
+[15:27:06] [Worker-Main-2/INFO]: Loaded 1141 advancements
+[15:27:08] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[15:27:08] [Server thread/INFO]: Loading properties
+[15:27:08] [Server thread/INFO]: Default game type: SURVIVAL
+[15:27:08] [Server thread/INFO]: Generating keypair
+[15:27:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:27:09] [Server thread/INFO]: Using epoll channel type
+[15:27:09] [Server thread/INFO]: Preparing level "world"
+[15:27:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:27:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:27:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:27:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:27:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:27:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:27:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:27:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:27:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:27:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:27:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:27:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:27:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:27:22] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[15:27:22] [Worker-Main-2/INFO]: Preparing spawn area: 8%
+[15:27:23] [Worker-Main-2/INFO]: Preparing spawn area: 14%
+[15:27:23] [Worker-Main-2/INFO]: Preparing spawn area: 19%
+[15:27:24] [Worker-Main-2/INFO]: Preparing spawn area: 27%
+[15:27:24] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[15:27:25] [Worker-Main-2/INFO]: Preparing spawn area: 64%
+[15:27:26] [Server thread/INFO]: Time elapsed: 10265 ms
+[15:27:26] [Server thread/INFO]: Done (17.111s)! For help, type "help"
+[15:27:26] [Server thread/INFO]: Starting remote control listener
+[15:27:26] [Server thread/INFO]: Thread RCON Listener started
+[15:27:26] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[15:29:39] [User Authenticator #1/INFO]: UUID of player Meazm is 6d74bc03-87d9-4648-8499-3d8a349c1ff8
+[15:29:39] [Server thread/INFO]: Meazm[/46.204.44.78:29060] logged in with entity id 22 at (132.0281464002682, 73.0, 1068.2230444741394)
+[15:29:39] [Server thread/INFO]: Meazm joined the game
+[15:29:39] [Server thread/INFO]: Meazm has made the advancement [Cover Me with Diamonds]
+[15:29:39] [Server thread/INFO]: Meazm has made the advancement [Suit Up]
+[15:29:39] [Server thread/INFO]: Meazm has made the advancement [Isn't It Iron Pick]
+[15:29:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[15:30:13] [User Authenticator #2/INFO]: UUID of player Bestiya12 is 6bba0ee1-302d-4224-99b8-557331de33e6
+[15:30:13] [Server thread/INFO]: Bestiya12[/109.252.105.206:3865] logged in with entity id 290 at (289.7006527704746, 21.0, 1692.4632473175673)
+[15:30:13] [Server thread/INFO]: Bestiya12 joined the game
+[15:30:18] [Server thread/WARN]: Meazm moved too quickly! 2.422767229808869,1.2468000194787976,9.835159687455189
+[15:30:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4275ms or 85 ticks behind
+[15:30:33] [Server thread/INFO]: Bestiya12 has made the advancement [The Cutest Predator]
+[15:30:43] [Server thread/INFO]: Meazm lost connection: Disconnected
+[15:30:43] [Server thread/INFO]: Meazm left the game
+[15:31:56] [User Authenticator #3/INFO]: UUID of player RengokeGK is a3fdb09b-b208-40ce-82ab-551ccdddc14f
+[15:31:56] [Server thread/INFO]: RengokeGK[/178.47.210.124:1058] logged in with entity id 809 at (134.3693747474328, 73.0, 1070.110100892442)
+[15:31:57] [Server thread/INFO]: RengokeGK joined the game
+[15:31:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2746ms or 54 ticks behind
+[15:40:57] [Server thread/INFO]: Bestiya12 has made the advancement [Take Aim]
+[15:53:25] [Server thread/INFO]: RengokeGK has made the advancement [Not Today, Thank You]
+[16:02:26] [Server thread/INFO]: RengokeGK has made the advancement [Diamonds!]
+[16:04:20] [User Authenticator #4/INFO]: UUID of player Meazm is 6d74bc03-87d9-4648-8499-3d8a349c1ff8
+[16:04:20] [Server thread/INFO]: Meazm[/46.204.44.78:29179] logged in with entity id 10975 at (122.69999998807907, 73.0, 1070.0413871936107)
+[16:04:20] [Server thread/INFO]: Meazm joined the game
+[16:04:45] [User Authenticator #5/INFO]: UUID of player Meazm is 6d74bc03-87d9-4648-8499-3d8a349c1ff8
+[16:04:51] [Server thread/INFO]: Meazm lost connection: Disconnected
+[16:04:51] [Server thread/INFO]: Meazm left the game
+[16:04:51] [Server thread/INFO]: Meazm[/46.204.44.78:58497] logged in with entity id 11115 at (122.69999998807907, 73.0, 1070.0413871936107)
+[16:04:51] [Server thread/INFO]: Meazm joined the game
+[16:05:21] [Server thread/INFO]: Meazm lost connection: Disconnected
+[16:05:21] [Server thread/INFO]: Meazm left the game
+[16:09:44] [User Authenticator #6/INFO]: UUID of player Meazm is 6d74bc03-87d9-4648-8499-3d8a349c1ff8
+[16:09:44] [Server thread/INFO]: Meazm[/46.204.44.78:58517] logged in with entity id 12465 at (122.69999998807907, 73.0, 1070.0413871936107)
+[16:09:44] [Server thread/INFO]: Meazm joined the game
+[16:11:43] [Server thread/INFO]: Meazm has made the advancement [Enchanter]
+[16:15:02] [Server thread/INFO]: Meazm has made the advancement [Monster Hunter]
+[16:16:25] [Server thread/INFO]: Meazm has made the advancement [Stone Age]
+[16:16:55] [Server thread/INFO]: Meazm has made the advancement [Take Aim]
+[16:18:54] [Server thread/INFO]: Meazm has made the advancement [Acquire Hardware]
+[16:19:29] [Server thread/INFO]: Meazm has made the advancement [Not Today, Thank You]
+[16:24:12] [Server thread/INFO]: Meazm has made the advancement [Diamonds!]
+[16:29:38] [Server thread/INFO]: RengokeGK fell from a high place
+[16:32:35] [Server thread/INFO]: Bestiya12 has made the advancement [A Seedy Place]
+[16:33:47] [Server thread/INFO]: <Meazm> могу поспать
+[16:33:49] [Server thread/INFO]: <Meazm> если хотите
+[16:35:11] [Server thread/INFO]: RengokeGK drowned
+[16:41:37] [Server thread/INFO]: <Meazm> мои купили два водяных пистолета
+[16:41:42] [Server thread/INFO]: <Meazm> и между комнатами через окна улицы
+[16:41:45] [Server thread/INFO]: <Meazm> перестреливаются
+[16:41:48] [Server thread/INFO]: <Meazm> 9 этаж
+[16:41:59] [Server thread/INFO]: <Meazm> ну типаа0)0
+[16:42:13] [Server thread/INFO]: <Meazm> вторая не моя
+[16:42:21] [Server thread/INFO]: <Meazm> просто с нами живёт
+[16:42:26] [Server thread/INFO]: <Meazm> на 3-их снимаем
+[16:43:44] [Server thread/INFO]: <Meazm> 1629 66 2032
+[17:00:01] [Server thread/INFO]: <Meazm> дайте корды дома
+[17:00:19] [Server thread/INFO]: <Meazm> 140 10 75
+[17:05:11] [Server thread/INFO]: Bestiya12 has made the advancement [We Need to Go Deeper]
+[17:18:50] [Server thread/INFO]: Meazm lost connection: Disconnected
+[17:18:50] [Server thread/INFO]: Meazm left the game
+[17:22:29] [Server thread/INFO]: Stopping the server
+[17:22:29] [Server thread/INFO]: Stopping server
+[17:22:29] [Server thread/INFO]: Saving players
+[17:22:29] [Server thread/INFO]: Bestiya12 lost connection: Server closed
+[17:22:29] [Server thread/INFO]: Bestiya12 left the game
+[17:22:29] [Server thread/INFO]: Saving worlds
+[17:22:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:22:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:22:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:22:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:22:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:22:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:22:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:22:33] [Server thread/INFO]: Thread RCON Listener stopped
